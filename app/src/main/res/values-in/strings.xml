@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sub4MovieDB</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="description_poster">Gambar Poster</string>
+    <string name="description_profile">Foto Profile</string>
+    <string name="label_follower">Pengikut</string>
+    <string name="label_following">Mengikuti</string>
+    <string name="label_photo">Foto</string>
+    <string name="no_data">Tidak Ada Data</string>
+    <string name="tab_movie">Film</string>
+    <string name="tab_tv_show">Acara TV</string>
+    <string name="text_add_group">Tambah Ke Grup</string>
+    <string name="text_follow_me">Ikuti Saya</string>
+    <string name="text_show_comments">Tampilkan Semua Komentar</string>
+    <string name="title_favorite">Suka</string>
+    <string name="title_popular">Populer</string>
+    <string name="title_profile">Profil</string>
+    <string name="title_share">Bagikan</string>
+    <string name="label_airing">Pertama Tayang</string>
+    <string name="label_overview">Ikhtisar</string>
+    <string name="label_release">Tanggal Tayang</string>
+    <string name="label_title">Judul</string>
+    <string name="label_vote">Penilaian</string>
+    <string name="title_detail_favorite">Detail Kesukaan</string>
+    <string name="title_movie_detail">Film Detail</string>
+    <string name="title_movie_favorite">Film Kesukaan</string>
+    <string name="title_movie_popular">Film Populer</string>
+    <string name="title_popular_tvshow">Acara TV Populer</string>
+    <string name="title_tv_show_favorite">Acara TV Kesukaan</string>
+    <string name="title_tvshow_detail">Detail Acara TV</string>
+</resources>
